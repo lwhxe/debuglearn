@@ -15,7 +15,7 @@ class exponentiate {
     }
 
     /* INFO: 
-     * This function is meant to exponenciate x by y
+     * This function is meant to exponentiate x by y
      * if x = 3 and y = 2. The result will be 3 to the power of 2.
      * 3^2 = 9
      */
