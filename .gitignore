@@ -1,2 +1,9 @@
+# Ignoring all .exe files
+**/*.exe
+
 # Ignoring .class files in all java subdirs
 java/**/*.class
+
+#Ignoring all zig specific dirs
+**/.zig-cache
+**/zig-out
