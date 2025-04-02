@@ -1,0 +1,2 @@
+# Ignoring .class files in all java subdirs
+java/**/*.class
